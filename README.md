@@ -9,3 +9,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of August
 3. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/729.%20My%20Calendar%20I.cpp">My Calendar I</a>
 4. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/858.%20Mirror%20Reflection.cpp">Mirror Reflection</a>
 5. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/377.%20Combination%20Sum%20IV.cpp">Combination Sum IV</a>
+6. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/458.%20Poor%20Pigs.cpp">Poor Pigs</a>
