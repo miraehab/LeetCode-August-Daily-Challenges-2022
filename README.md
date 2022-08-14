@@ -12,3 +12,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of August
 6. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/458.%20Poor%20Pigs.cpp">Poor Pigs</a>
 7. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/1220.%20Count%20Vowels%20Permutation.cpp">Count Vowels Permutation</a>
 8. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/300.%20Longest%20Increasing%20Subsequence.cpp">Longest Increasing Subsequence</a>
+9. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/823.%20Binary%20Trees%20With%20Factors.cpp">Binary Trees With Factors</a>
