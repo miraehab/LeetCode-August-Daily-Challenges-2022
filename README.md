@@ -16,3 +16,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of August
 10. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.cpp">Convert Sorted Array to Binary Search Tree</a>
 11. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/98.%20Validate%20Binary%20Search%20Tree.cpp">Validate Binary Search Tree</a>
 12. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp">Lowest Common Ancestor of a Binary Search Tree</a>
+13. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/30.%20Substring%20with%20Concatenation%20of%20All%20Words.cpp">Substring with Concatenation of All Words</a>
