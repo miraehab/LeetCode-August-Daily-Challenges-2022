@@ -21,3 +21,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of August
 15. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/13.%20Roman%20to%20Integer.cpp">Roman to Integer</a>
 16. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/387.%20First%20Unique%20Character%20in%20a%20String.cpp">First Unique Character in a String</a>
 17. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/804.%20Unique%20Morse%20Code%20Words.cpp">Unique Morse Code Words</a>
+18. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/1338.%20Reduce%20Array%20Size%20to%20The%20Half.cpp">Reduce Array Size to The Half</a>
