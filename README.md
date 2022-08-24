@@ -19,3 +19,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of August
 13. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/30.%20Substring%20with%20Concatenation%20of%20All%20Words.cpp">Substring with Concatenation of All Words</a>
 14. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/126.%20Word%20Ladder%20II.cpp">Word Ladder II</a>
 15. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/13.%20Roman%20to%20Integer.cpp">Roman to Integer</a>
+16. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/387.%20First%20Unique%20Character%20in%20a%20String.cpp">First Unique Character in a String</a>
