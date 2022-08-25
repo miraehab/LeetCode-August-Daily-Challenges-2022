@@ -27,3 +27,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of August
 21. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/936.%20Stamping%20The%20Sequence.cpp">Stamping The Sequence</a>
 22. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/342.%20Power%20of%20Four.cpp">Power of Four</a>
 23. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/234.%20Palindrome%20Linked%20List.cpp">Palindrome Linked List</a>
+24. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/326.%20Power%20of%20Three.cpp">Power of Three</a>
