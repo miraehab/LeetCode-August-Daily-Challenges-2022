@@ -26,3 +26,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of August
 20. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/871.%20Minimum%20Number%20of%20Refueling%20Stops.cpp">Minimum Number of Refueling Stops</a>
 21. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/936.%20Stamping%20The%20Sequence.cpp">Stamping The Sequence</a>
 22. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/342.%20Power%20of%20Four.cpp">Power of Four</a>
+23. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/234.%20Palindrome%20Linked%20List.cpp">Palindrome Linked List</a>
