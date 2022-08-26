@@ -29,3 +29,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of August
 23. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/234.%20Palindrome%20Linked%20List.cpp">Palindrome Linked List</a>
 24. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/326.%20Power%20of%20Three.cpp">Power of Three</a>
 25. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/383.%20Ransom%20Note.cpp">Ransom Note</a>
+26. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/869.%20Reordered%20Power%20of%202.cpp">Reordered Power of 2</a>
