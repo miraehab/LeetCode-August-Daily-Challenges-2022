@@ -32,3 +32,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of August
 26. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/869.%20Reordered%20Power%20of%202.cpp">Reordered Power of 2</a>
 27. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.cpp">Max Sum of Rectangle No Larger Than K</a>
 28. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/1329.%20Sort%20the%20Matrix%20Diagonally.cpp">Sort the Matrix Diagonally</a>
+29. <a href="https://github.com/miraehab/LeetCode-August-Daily-Challenges-2022/blob/main/200.%20Number%20of%20Islands.cpp">Number of Islands</a>
